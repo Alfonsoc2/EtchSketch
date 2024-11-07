@@ -14,3 +14,5 @@
     background-color: lightgray;
     box-sizing: border-box;
 }
+#grid-container div:hover {
+    background-color: teal;
